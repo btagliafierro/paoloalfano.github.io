@@ -3,11 +3,11 @@ ___
 ___
 #### <center> Civil Engineer & Architect | Student <center>
 
-#### <center>Scopus ID: [1234 paoloalfano](https://www.scopus.com "Scopus") <center>
+#### <center>Scopus ID: [Template di prova](https://www.scopus.com "Scopus") <center>
 
 ___
 
-[[Home]] - [[Profile]] - [Pubblication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
+[Home](README.md) - [Profile](PAGES/PROFILE/profile.md) - [Pubblication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
 
 ___
 
@@ -19,7 +19,7 @@ ___
 *UNIVERSITY OF SALERNO*, Italy (Nov 2018 - present)
 ><P ALIGN="JUSTIFY"> per me si va nell'eterno dolore  
 
-**Partner EPhysLab** 
+**Partner ** 
 
 *UNIVERSITA*, Salerno (Jan 2019 - present)
 > <P ALIGN="JUSTIFY"> Parlami o diva del pelide aCHILLE<P ALIGN="JUSTIFY"> 
