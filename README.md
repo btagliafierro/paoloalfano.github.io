@@ -24,7 +24,7 @@ ___
 *UNIVERSITA*, Salerno (Jan 2019 - present)
 > <P ALIGN="JUSTIFY"> Parlami o diva del pelide aCHILLE<P ALIGN="JUSTIFY"> 
 
-<video width="520" height="440" controls>
+<video width="520" height="440" controls autoplay loop muted playsinline>
   <source src="VIDEO\movie.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
